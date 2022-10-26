@@ -1,0 +1,19 @@
+[
+    {
+        "departure_info":"15:3916.7. so",
+        "connection_data":[
+            {
+                "connection_name":"Tram 10",
+                "start_end_stops": ["Ondrouskova","Hlavni nadrazi"],
+                "start_end_times": ["15:54","16:22"]
+            },
+            {
+                "connection_name":"Bus 40",
+                "time":"16:22"
+            }
+        ]
+    },
+    {
+
+    }
+]
